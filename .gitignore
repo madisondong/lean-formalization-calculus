@@ -1,0 +1,13 @@
+# Cache và kết quả biên dịch Lake
+.lake/
+# Các tệp giáo trình chỉ dùng để đối chiếu tại máy cá nhân
+source/
+# Hồ sơ kiểm chứng và bản gốc được giữ tại máy cá nhân.
+docs/evidence/
+docs/batches/
+# Tệp hệ điều hành và cache Python
+.DS_Store
+__pycache__/
+*.pyc
+# Bản ZIP được tạo tại máy cá nhân
+output/
